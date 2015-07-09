@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\EMAIL_PROJECT\my_project\.metadata\.plugins\org.eclipse.jdt.core
+1583794335.index

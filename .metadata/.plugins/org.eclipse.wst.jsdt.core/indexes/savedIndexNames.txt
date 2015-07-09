@@ -1,0 +1,1 @@
+INDEX VERSION 1.122+C:\EMAIL_PROJECT\my_project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
