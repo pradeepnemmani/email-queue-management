@@ -4,7 +4,7 @@ package my_project;
  DOCUMENTATION
  * Title:-EMAIL QUEUEING MANAGENENT USING MULTIPLE SMTP PROVIDERS.
  * @author N. Pradeep Kumar, ij13b
- * Saturday April 05, 2014, 14:10:56
+ * Saturday Jan 05, 2014, 14:10:56
  * dots2drops
  */
 import java.util.Properties;
